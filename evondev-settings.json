@@ -1,0 +1,68 @@
+{
+  "editor.fontFamily": "SF Mono, Source Code Pro, Input Mono, Inconsolata,  Arial, Helvetica, sans-serif",
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 30,
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorWidth": 3,
+  "explorer.confirmDelete": false,
+  "editor.minimap.renderCharacters": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "terminal.integrated.rendererType": "dom",
+  "debug.console.fontSize": 14,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSaveDelay": 5000,
+  "editor.renderLineHighlight": "none",
+  "editor.fontLigatures": true,
+  "files.exclude": {
+    "**/.history": true,
+    "**/.next": true
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "terminal.integrated.lineHeight": 1.3,
+  "eslint.alwaysShowStatus": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.wordWrapColumn": 100,
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.logMessagePrefix": "",
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "color-highlight.markerType": "underline",
+  "liveshare.authenticationProvider": "GitHub",
+  "codesnap.backgroundColor": "transparent",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.letterSpacing": 0.6,
+  "window.zoomLevel": 1.5,
+  "powermode.enabled": true,
+  "powermode.enableShake": false,
+  "powermode.enableStatusBarComboTimer": false,
+  "powermode.enableStatusBarComboCounter": false,
+  "powermode.explosionOffset": 0.2,
+  "powermode.explosionSize": 3.5,
+  "editor.fontSize": 13,
+  "workbench.editor.untitled.hint": "hidden",
+  "terminal.integrated.fontSize": 13,
+  "workbench.colorTheme": "Dracula high contrast",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.fontAliasing": "auto",
+  "editor.cursorBlinking": "solid"
+}

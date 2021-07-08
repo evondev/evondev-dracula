@@ -1,0 +1,37 @@
+{
+  "name": "dracula-high-contrast",
+  "displayName": "Evondev Dracula",
+  "description": "Dracula Theme High Contrast",
+  "version": "0.1.5",
+  "publisher": "evondev",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evondev/evondev-snippets"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula high contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-high-contrast.json"
+      },
+      {
+        "label": "Dracula normal contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-normal-contrast.json"
+      },
+      {
+        "label": "Dracula darker contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-darker-contrast.json"
+      }
+    ]
+  }
+}
