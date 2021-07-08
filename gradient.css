@@ -1,0 +1,56 @@
+:root {
+  --gradient-dir1: to right bottom;
+  --gradient-dir2: to left top;
+  --gradient-dir3: to right top;
+}
+.mtk10,
+.mtk15 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir3), #fc6c8f, #ff2ced);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.mtk5 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir1), #20e3b2 35%, #2cccff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.mtk16 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir1), #9a86fd, #6a5af9);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.mtk17 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir1), #0c97fa, #16e1f5);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.mtk18 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir2), #82aaff 50%, #3d6ef7);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.mtk3 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir2), #c29ffd 50%, #ffb4dc);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.mtk7 {
+  color: transparent;
+  background-image: linear-gradient(var(--gradient-dir2), #fc6c8f, #ffb86c);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

@@ -2,7 +2,7 @@
   "name": "dracula-high-contrast",
   "displayName": "Evondev Dracula",
   "description": "Dracula Theme High Contrast",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "evondev",
   "engines": {
     "vscode": "^1.55.0"
