@@ -1,6 +1,11 @@
-## Introduce
+# Introduction
 
 This theme I created base on original Dracula Official Theme
+
+# Donate to support me 🙏
+
+- Momo: 0937253577
+- Bank: ACB - 201607359 - TRAN ANH TUAN
 
 ## About me
 
