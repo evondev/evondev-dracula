@@ -6,7 +6,12 @@
 .mtk10,
 .mtk15 {
   color: transparent;
-  background-image: linear-gradient(var(--gradient-dir3), #fc6c8f, #ff2ced);
+  background-image: linear-gradient(
+    var(--gradient-dir3),
+    #fc6c8f,
+    #ff2ced,
+    #ffb86c
+  );
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -18,14 +23,18 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  font-family: "Operator mono";
+  font-style: italic;
 }
 .mtk16 {
   color: transparent;
   background-image: linear-gradient(var(--gradient-dir1), #9a86fd, #6a5af9);
+
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
+.mtk9,
 .mtk17 {
   color: transparent;
   background-image: linear-gradient(var(--gradient-dir1), #0c97fa, #16e1f5);
@@ -39,10 +48,17 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  font-style: normal;
 }
 .mtk3 {
   color: transparent;
-  background-image: linear-gradient(var(--gradient-dir2), #c29ffd 50%, #ffb4dc);
+  background-image: linear-gradient(
+    var(--gradient-dir2),
+    #c29ffd,
+    #ffb4dc,
+    #fef0d1
+  );
+
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -53,4 +69,60 @@
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+/* .mtk17 {
+  font-family: "Dank mono";
+  font-size: 110%;
+  font-style: normal;
+}
+.mtk5 {
+  font-family: "Operator mono";
+  font-size: 105%;
+  font-style: italic;
+} */
+/* Other */
+.monaco-workbench
+  .activitybar
+  > .content
+  :not(.monaco-menu)
+  > .monaco-action-bar
+  .action-item.checked
+  .active-item-indicator:before {
+  border: 0;
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: linear-gradient(var(--gradient-dir2), #c29ffd, #ff6bcb);
+}
+.monaco-workbench
+  .part.editor
+  > .content
+  .editor-group-container
+  > .title
+  .tabs-container
+  > .tab.active.tab-border-top
+  > .tab-border-top-container {
+  background-image: linear-gradient(var(--gradient-dir1), #6a5af9, #ffb4dc);
+}
+.monaco-workbench
+  .activitybar
+  > .content
+  :not(.monaco-menu)
+  > .monaco-action-bar
+  .badge
+  .badge-content {
+  background-image: linear-gradient(var(--gradient-dir2), #fc6c8f, #ff2ced);
+}
+.monaco-editor .cursors-layer .cursor {
+  background-image: linear-gradient(
+    45deg,
+    #6a5af9,
+    #ff2ced,
+    #ffb4dc,
+    #fc6c8f,
+    #ffb86c
+  );
 }
