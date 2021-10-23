@@ -1,17 +1,12 @@
 :root {
-  --gradient-dir1: to right bottom;
-  --gradient-dir2: to left top;
-  --gradient-dir3: to right top;
+  --gradient-dir1: 45deg;
+  --gradient-dir2: 90deg;
+  --gradient-dir3: -45deg;
 }
 .mtk10,
 .mtk15 {
   color: transparent;
-  background-image: linear-gradient(
-    var(--gradient-dir3),
-    #fc6c8f,
-    #ff2ced,
-    #ffb86c
-  );
+  background-image: linear-gradient(to left top, #fc6c8f, #ff2ced, #ffb86c);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -19,17 +14,14 @@
 
 .mtk5 {
   color: transparent;
-  background-image: linear-gradient(var(--gradient-dir1), #20e3b2 35%, #2cccff);
+  background-image: linear-gradient(var(--gradient-dir1), #20e3b2, #4dd78a);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-  font-family: "Operator mono";
-  font-style: italic;
 }
 .mtk16 {
   color: transparent;
-  background-image: linear-gradient(var(--gradient-dir1), #9a86fd, #6a5af9);
-
+  background-image: linear-gradient(var(--gradient-dir1), #d66efd, #6a5af9);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -37,7 +29,7 @@
 .mtk9,
 .mtk17 {
   color: transparent;
-  background-image: linear-gradient(var(--gradient-dir1), #0c97fa, #16e1f5);
+  background-image: linear-gradient(to right top, #0072ff, #2cccff);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -52,35 +44,19 @@
 }
 .mtk3 {
   color: transparent;
-  background-image: linear-gradient(
-    var(--gradient-dir2),
-    #c29ffd,
-    #ffb4dc,
-    #fef0d1
-  );
-
+  background-image: linear-gradient(to right top, #c29ffd, #ffb4dc, #fef0d1);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
 .mtk7 {
   color: transparent;
-  background-image: linear-gradient(var(--gradient-dir2), #fc6c8f, #ffb86c);
+  background-image: linear-gradient(to right bottom, #fc6c8f, #ffb86c);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-/* .mtk17 {
-  font-family: "Dank mono";
-  font-size: 110%;
-  font-style: normal;
-}
-.mtk5 {
-  font-family: "Operator mono";
-  font-size: 105%;
-  font-style: italic;
-} */
 /* Other */
 .monaco-workbench
   .activitybar
@@ -90,13 +66,14 @@
   .action-item.checked
   .active-item-indicator:before {
   border: 0;
-  width: 2px;
+  width: 3px;
   height: 100%;
   position: absolute;
   top: 0;
   left: 0;
-  background-image: linear-gradient(var(--gradient-dir2), #c29ffd, #ff6bcb);
+  background-image: linear-gradient(to bottom, #fc6c8f, #ff2ced);
 }
+
 .monaco-workbench
   .part.editor
   > .content
@@ -105,7 +82,8 @@
   .tabs-container
   > .tab.active.tab-border-top
   > .tab-border-top-container {
-  background-image: linear-gradient(var(--gradient-dir1), #6a5af9, #ffb4dc);
+  background-image: linear-gradient(to left, #fc6c8f, #ff2ced);
+  height: 3px;
 }
 .monaco-workbench
   .activitybar
@@ -115,14 +93,4 @@
   .badge
   .badge-content {
   background-image: linear-gradient(var(--gradient-dir2), #fc6c8f, #ff2ced);
-}
-.monaco-editor .cursors-layer .cursor {
-  background-image: linear-gradient(
-    45deg,
-    #6a5af9,
-    #ff2ced,
-    #ffb4dc,
-    #fc6c8f,
-    #ffb86c
-  );
 }
