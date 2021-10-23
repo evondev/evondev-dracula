@@ -47,12 +47,12 @@
 
 ## My settings.json
 
-- If you want to know my settings.json, please check here: (https://github.com/evondev/evondev-dracula/blob/master/evondev-settings.json)
+- If you want to know my settings.json, please [click here](https://github.com/evondev/evondev-dracula/blob/master/evondev-settings.json)
 
 ## My other extensions
 
 - [Evondev Snippets](https://marketplace.visualstudio.com/items?itemName=evondev.evondev-snippets&ssr=false)
-- [Evondev - HTML to CSS Class](https://marketplace.visualstudio.com/items?itemName=evondev.generate-css-classs&ssr=false)
+- [Evondev - HTML to CSS Class](https://marketplace.visualstudio.com/items?itemName=evondev.generate-css-class&ssr=false)
 
 ## Font I'm using
 
