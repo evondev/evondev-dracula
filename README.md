@@ -1,4 +1,4 @@
-# Dracula High Contrast Theme for Visual Studio Code
+# Dracula High Contrast Theme for Visual Studio Code 🧛🏻‍♂️
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
@@ -18,9 +18,10 @@
 
 ## Scheme color
 
-- Dracula normal contrast
-- Dracula high contrast
-- Dracula darker contrast
+- Dracula darker colour 🔥
+- Dracula normal contrast 😍
+- Dracula high contrast ⚡️
+- Dracula darker contrast 🤩
 
 ## Enable Gradient scheme
 
