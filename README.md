@@ -18,10 +18,11 @@
 
 ## Scheme color
 
-- Dracula darker colour 🔥
-- Dracula normal contrast 😍
-- Dracula high contrast ⚡️
-- Dracula darker contrast 🤩
+- Dracula night owl constrast
+- Dracula darker colour
+- Dracula normal contrast
+- Dracula high contrast
+- Dracula darker contrast
 
 ## Enable Gradient scheme
 
