@@ -23,33 +23,11 @@
 - Dracula normal contrast
 - Dracula high contrast
 - Dracula darker contrast
-
-## Enable Gradient scheme
-
-- Install Custom CSS and JS Loader Extension
-- Download file `gradient.css` by [`click here`](https://github.com/evondev/evondev-dracula/blob/master/gradient.css)
-- Copy `gradient.css` to a location on your machine, such as your user folder. Copy the file path and add it to your VS code `settings.json`.
-- On Mac it might look something like the snippet below:
-
-```
-"vscode_custom_css.imports": [
-    "file:///Users/MyUserName/Documents/gradient.css"
-  ],
-```
-
-- On Window it might look something like the snippet below:
-
-```
-"vscode_custom_css.imports": [
-    "file:///C:/Users/MyUserName/Documents/gradient.css"
-  ],
-```
-
-- If you don't know how to add custom CSS path above, please watch this video: (https://www.youtube.com/watch?v=h6undBvNB8s)
+- Dracula gradient ([DM me](https://fb.com/tuan.trananh.0509)) 🔥
 
 ## My settings.json
 
-- If you want to know my settings.json, please [click here](https://github.com/evondev/evondev-dracula/blob/master/evondev-settings.json)
+[Click here](https://github.com/evondev/evondev-dracula/blob/master/evondev-settings.json)
 
 ## My other extensions
 
@@ -58,4 +36,4 @@
 
 ## Font I'm using
 
-I use [SF Mono Ligatures](https://github.com/kube/sf-mono-ligaturized).
+[SF Mono Ligatures](https://github.com/kube/sf-mono-ligaturized).
