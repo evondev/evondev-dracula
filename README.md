@@ -23,7 +23,6 @@
 - Dracula normal contrast
 - Dracula high contrast
 - Dracula darker contrast
-- Dracula gradient ([DM me](https://fb.com/tuan.trananh.0509)) 🔥
 
 ## My settings.json
 
