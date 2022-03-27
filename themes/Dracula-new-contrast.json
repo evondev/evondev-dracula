@@ -652,7 +652,7 @@
     {
       "scope": ["meta.diff", "meta.diff.header"],
       "settings": {
-        "foreground": "#6272A4"
+        "foreground": "#7F848E"
       }
     },
     {
@@ -769,7 +769,7 @@
     {
       "scope": ["meta.separator.markdown"],
       "settings": {
-        "foreground": "#6272A4"
+        "foreground": "#7F848E"
       }
     },
     {
@@ -851,7 +851,7 @@
         "wildcard.comment"
       ],
       "settings": {
-        "foreground": "#6272A4"
+        "foreground": "#7F848E"
       }
     },
     {
@@ -1244,7 +1244,7 @@
         "string.quoted.docstring.multi.python constant.character.escape"
       ],
       "settings": {
-        "foreground": "#6272A4"
+        "foreground": "#7F848E"
       }
     },
     {
@@ -1355,7 +1355,7 @@
     {
       "scope": ["meta.preprocessor.haskell"],
       "settings": {
-        "foreground": "#6272A4"
+        "foreground": "#7F848E"
       }
     },
     {

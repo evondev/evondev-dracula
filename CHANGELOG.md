@@ -1,9 +1,5 @@
-# Change Log
+# Evondev Dracula Changelog
 
-All notable changes to the "dracula-high-contrast" extension will be documented in this file.
+## 0.2.5
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Change color of `comments` scope for easy reading
