@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.7
+
+- Update `semanticHighlighting` to theme
+
 ## 0.2.6
 
 - Settings for better experience(copy settings yout want to your settings.json)

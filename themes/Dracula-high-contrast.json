@@ -2,6 +2,7 @@
   "name": "Dracula high contrast",
   "type": "dark",
   "$schema": "vscode://schemas/color-theme",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.activeBackground": "#bd93f910",
     "activityBar.activeBorder": "#ff6bcb",
