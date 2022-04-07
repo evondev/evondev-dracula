@@ -1,8 +1,20 @@
 # Evondev Dracula Changelog
 
+## 0.2.8
+
+Update more color scheme with `none semanticHighlight`
+
+- Evondev Dracula Normal Contrast - No Highlight
+- Evondev Dracula Hight Contrast - No Highlight
+- Evondev Dracula Darker Colour - No Highlight
+
 ## 0.2.7
 
 - Update `semanticHighlighting` to theme
+  **Before**
+  ![Preview](https://raw.githubusercontent.com/evondev/evondev-dracula/master/screenshots/none-semantic-highlight.png)
+  **After**
+  ![Preview](https://raw.githubusercontent.com/evondev/evondev-dracula/master/screenshots/semantic-highlight.png)
 
 ## 0.2.6
 
