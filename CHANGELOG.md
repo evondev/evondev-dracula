@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.12
+
+- Add light border to tab, sidebar and panel
+
 ## 0.2.8
 
 Update more color scheme with `none semanticHighlight`
