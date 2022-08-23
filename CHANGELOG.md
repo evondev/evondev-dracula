@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.14
+
+- Change `checkbox` merge editor color
+
 ## 0.2.12
 
 - Add light border to tab, sidebar and panel

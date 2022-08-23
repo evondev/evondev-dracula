@@ -191,7 +191,8 @@
     "activityBar.border": "#21293d",
     "panel.border": "#21293d",
     "editorGroup.border": "#21293d",
-    "editorGroupHeader.border": "#21293d"
+    "editorGroupHeader.border": "#21293d",
+    "checkbox.border": "#6272a4"
   },
   "tokenColors": [
     {

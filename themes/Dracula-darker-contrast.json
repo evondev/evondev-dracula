@@ -189,7 +189,8 @@
     "titleBar.activeForeground": "#f8f8f2",
     "titleBar.inactiveBackground": "#191a21",
     "titleBar.inactiveForeground": "#6272a4",
-    "walkThrough.embeddedEditorBackground": "#21222c"
+    "walkThrough.embeddedEditorBackground": "#21222c",
+    "checkbox.border": "#6272a4"
   },
   "tokenColors": [
     {

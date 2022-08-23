@@ -145,7 +145,6 @@
     "sideBar.background": "#011627",
     "sideBarSectionHeader.background": "#011627",
     "sideBarTitle.foreground": "#f8f8f2",
-    "statusBar.background": "#191a21",
     "statusBar.debuggingBackground": "#ff5555",
     "statusBar.debuggingForeground": "#191a21",
     "statusBar.foreground": "#f8f8f2",
@@ -180,7 +179,6 @@
     "terminal.foreground": "#f8f8f2",
     "titleBar.activeBackground": "#011627",
     "titleBar.activeForeground": "#f8f8f2",
-    "titleBar.inactiveBackground": "#191a21",
     "titleBar.inactiveForeground": "#6272a4",
     "walkThrough.embeddedEditorBackground": "#21222c",
     "sideBar.border": "#0d2235",
@@ -192,7 +190,11 @@
     "panelTitle.inactiveForeground": "#d6deeb80",
     "sideBarSectionHeader.border": "#011627",
     "editorGroup.border": "#011627",
-    "editorGroupHeader.border": "#0d2235"
+    "editorGroupHeader.border": "#0d2235",
+    "statusBar.background": "#011627",
+    "statusBar.border": "#0D2235",
+    "titleBar.inactiveBackground": "#011627",
+    "checkbox.border": "#6272a4"
   },
   "tokenColors": [
     {
