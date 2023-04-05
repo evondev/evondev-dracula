@@ -160,6 +160,7 @@
     "statusBarItem.prominentHoverBackground": "#ffb86c",
     "statusBarItem.remoteBackground": "#a86bff",
     "statusBarItem.remoteForeground": "#f8f8f2",
+    "tab.lastPinnedBorder": "#1e1f35",
     "tab.activeBackground": "#1e1f35",
     "tab.activeBorderTop": "#8d92ff",
     "tab.activeForeground": "#f8f8f2",
