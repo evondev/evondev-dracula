@@ -1,10 +1,6 @@
 # Dracula High Contrast Theme for Visual Studio Code 🧛🏻‍♂️
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/evondev.dracula-high-contrast.svg)](https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast)
-
-> This Theme based on [dracula-official](https://github.com/dracula/dracula-theme)
+> This Theme based on [dracula-official](https://github.com/dracula/dracula-theme) 🙏
 
 ![Preview](https://raw.githubusercontent.com/evondev/evondev-dracula/master/preview.png)
 
@@ -18,21 +14,23 @@
 
 ## Scheme color
 
-- Dracula night owl constrast
-- Dracula darker colour
-- Dracula normal contrast
-- Dracula high contrast
-- Dracula darker contrast
+- Evondev Dracula Darker Text 🔥
+- Evondev Dracula High Contrast ⭐️
+- Evondev Dracula Normal Contrast 🤩
+- Evondev Dracula Night Contrast 🦉
+- Evondev Dracula Darker Colour ❤️
+- Evondev Dracula Darker Contrast 🤯
 
 ## My settings.json
 
-[Click here](https://github.com/evondev/evondev-dracula/blob/master/evondev-settings.json)
+[Settings Json](https://github.com/evondev/evondev-dracula/blob/master/evondev-settings.json)
 
 ## My other extensions
 
-- [Evondev Snippets](https://marketplace.visualstudio.com/items?itemName=evondev.evondev-snippets&ssr=false)
-- [Evondev - HTML to CSS Class](https://marketplace.visualstudio.com/items?itemName=evondev.generate-css-class&ssr=false)
+- [Evondev Snippets](https://marketplace.visualstudio.com/items?itemName=evondev.evondev-snippets)
+- [Evondev - HTML to CSS Class](https://marketplace.visualstudio.com/items?itemName=evondev.generate-css-class)
+- [Evondev - Indent Rainbow Palettes](https://marketplace.visualstudio.com/items?itemName=evondev.indent-rainbow-palettes)
 
-## Font I'm using
+## Font
 
 [SF Mono Ligatures](https://github.com/kube/sf-mono-ligaturized).
