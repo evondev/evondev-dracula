@@ -14,7 +14,6 @@
 
 ## Scheme color
 
-- Evondev Dracula Darker Text 🔥
 - Evondev Dracula High Contrast ⭐️
 - Evondev Dracula Normal Contrast 🤩
 - Evondev Dracula Night Contrast 🦉
