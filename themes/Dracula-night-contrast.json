@@ -488,13 +488,6 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name"],
-      "settings": {
-        "foreground": "#20E3B2",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "scope": [
         "entity.name.function",
         "meta.function-call.generic",
@@ -933,12 +926,23 @@
     },
     {
       "scope": [
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.js",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.ts",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#20E3B2",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
         "entity.other.attribute-name",
         "entity.name.function",
         "support.type.media-names.css",
         "support.type.property-names.css",
-        "entity.other.attribute-name.jsx",
-        "entity.other.attribute-name.html",
         "variable.other.class.js"
       ],
       "settings": {
