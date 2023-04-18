@@ -1,5 +1,10 @@
 # Evondev Dracula Changelog
 
+## 0.2.21
+
+- Remove Darker Contrast
+- Change Darker Colour to New Colour
+
 ## 0.2.14
 
 - Change `checkbox` merge editor color

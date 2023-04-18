@@ -988,7 +988,8 @@
         "constant.length.units.css",
         "constant.percentage.units.css",
         "constant.time.units.css",
-        "constant.angle.units.css"
+        "constant.angle.units.css",
+        "storage.modifier.ts"
       ],
       "settings": {
         "foreground": "#FF6BCB"
@@ -1058,7 +1059,8 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#2CCCFF"
+        "foreground": "#2CCCFF",
+        "fontStyle": ""
       }
     },
     {
@@ -1073,13 +1075,13 @@
         "variable.other.property.ts",
         "variable.other.property.tsx",
         "variable.scss",
-        "storage.modifier.ts",
         "variable.other.property.static.js",
         "string.unquoted.js",
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#82AAFF",
+        "fontStyle": ""
       }
     },
     {
