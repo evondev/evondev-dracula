@@ -36,6 +36,11 @@
         "label": "Evondev Dracula Night Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/Dracula-night-contrast.json"
+      },
+      {
+        "label": "Evondev Dracula Darker Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-darker-contrast.json"
       }
     ]
   }
