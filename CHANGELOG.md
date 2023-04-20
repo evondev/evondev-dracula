@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.23
+
+- Remove italic style for attribute
+
 ## 0.2.21
 
 - Change Darker Colour to New Colour
