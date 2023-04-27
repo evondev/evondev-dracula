@@ -592,7 +592,7 @@
         "punctuation.separator.annotation"
       ],
       "settings": {
-        "foreground": "#20e3b2"
+        "foreground": "#a0a0a0"
       }
     },
     {
@@ -779,7 +779,7 @@
         "punctuation.support.type.property-name.end"
       ],
       "settings": {
-        "foreground": "#8BE9FE"
+        "foreground": "#a0a0a0"
       }
     },
     {
