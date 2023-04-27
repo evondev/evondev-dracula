@@ -919,6 +919,7 @@
         "punctuation.definition.string.end",
         "entity.name.tag.reference.scss",
         "entity.other.attribute-name.pseudo-element.css",
+        "entity.other.attribute-name.pseudo-class.css",
         "punctuation.definition.entity.css"
       ],
       "settings": {
@@ -959,7 +960,8 @@
         "variable.graphql",
         "string",
         "meta.attribute-selector.scss",
-        "meta.attribute-selector.css"
+        "meta.attribute-selector.css",
+        "support.function.misc.scss"
       ],
       "settings": {
         "foreground": "#ffc799"
