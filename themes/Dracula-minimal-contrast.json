@@ -277,21 +277,21 @@
     {
       "scope": ["markup.bold"],
       "settings": {
-        "foreground": "#FFC799",
+        "foreground": "#a0a0a0",
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#a0a0a0",
+        "foreground": "#FFC799",
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["markup.italic"],
       "settings": {
-        "foreground": "#FFC799",
+        "foreground": "#a0a0a0",
         "fontStyle": "italic"
       }
     },
@@ -556,13 +556,13 @@
       ],
       "settings": {
         "foreground": "#BD93F9",
-        "fontStyle": "regular"
+        "fontStyle": ""
       }
     },
     {
       "scope": ["support.function", "support.type.property-name"],
       "settings": {
-        "fontStyle": "regular"
+        "fontStyle": ""
       }
     },
     {
@@ -868,13 +868,6 @@
       "scope": ["source.shell variable.other"],
       "settings": {
         "foreground": "#BD93F9"
-      }
-    },
-    {
-      "scope": ["support.constant"],
-      "settings": {
-        "foreground": "#BD93F9",
-        "fontStyle": "normal"
       }
     },
     {
