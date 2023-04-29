@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.31
+
+- Optimize Minimal version
+
 ## 0.2.24
 
 - Added Minimal version
