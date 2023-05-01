@@ -1061,7 +1061,8 @@
         "variable.scss",
         "variable.other.property.static.js",
         "string.unquoted.js",
-        "meta.object-literal.key"
+        "meta.object-literal.key",
+        "entity.other.attribute-name.class.pug"
       ],
       "settings": {
         "foreground": "#fff",
