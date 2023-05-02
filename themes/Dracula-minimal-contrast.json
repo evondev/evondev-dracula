@@ -1029,7 +1029,8 @@
         "support.function.transform.css",
         "constant.language.pseudo.css",
         "constant.language.pseudo.prefixed.css",
-        "entity.name.function.scss"
+        "entity.name.function.scss",
+        "support.constant.property-value.css"
       ],
       "settings": {
         "foreground": "#20e3b2"
@@ -1061,8 +1062,7 @@
         "variable.scss",
         "variable.other.property.static.js",
         "string.unquoted.js",
-        "meta.object-literal.key",
-        "entity.other.attribute-name.class.pug"
+        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#fff",
