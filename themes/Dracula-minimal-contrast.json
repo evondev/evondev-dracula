@@ -954,7 +954,7 @@
         "string",
         "meta.attribute-selector.scss",
         "meta.attribute-selector.css",
-        "support.function.misc.scss"
+        "support.constant.property-value.css"
       ],
       "settings": {
         "foreground": "#ffc799"
@@ -973,7 +973,8 @@
         "constant.length.units.css",
         "constant.percentage.units.css",
         "constant.time.units.css",
-        "constant.angle.units.css"
+        "constant.angle.units.css",
+        "support.function.misc.scss"
       ],
       "settings": {
         "foreground": "#20e3b2"
@@ -1029,8 +1030,7 @@
         "support.function.transform.css",
         "constant.language.pseudo.css",
         "constant.language.pseudo.prefixed.css",
-        "entity.name.function.scss",
-        "support.constant.property-value.css"
+        "entity.name.function.scss"
       ],
       "settings": {
         "foreground": "#20e3b2"
