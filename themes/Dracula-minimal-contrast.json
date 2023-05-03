@@ -29,7 +29,7 @@
     "dropdown.foreground": "#f8f8f2",
     "editor.background": "#141523",
     "editor.findMatchBackground": "#FFC79980",
-    "editor.findMatchHighlightBackground": "#f8f8f2f8f8f240",
+    "editor.findMatchHighlightBackground": "#ffffff40",
     "editor.findRangeHighlightBackground": "#44475a75",
     // "editor.foldBackground": "#141523",
     "editor.foreground": "#f8f8f2",
@@ -55,8 +55,8 @@
     "editorGutter.modifiedBackground": "#8be9fd80",
     "editorHoverWidget.background": "#282a36",
     "editorHoverWidget.border": "#6272a4",
-    "editorIndentGuide.activeBackground": "#f8f8f2f8f8f245",
-    "editorIndentGuide.background": "#f8f8f2f8f8f21a",
+    "editorIndentGuide.activeBackground": "#ffffff45",
+    "editorIndentGuide.background": "#ffffff1a",
     "editorLineNumber.foreground": "#6272a4",
     "editorLink.activeForeground": "#8be9fd",
     "editorMarkerNavigation.background": "#21222c",
@@ -72,12 +72,12 @@
     "editorOverviewRuler.warningForeground": "#FFC79980",
     "editorOverviewRuler.wordHighlightForeground": "#8be9fd",
     "editorOverviewRuler.wordHighlightStrongForeground": "#20E3B2",
-    "editorRuler.foreground": "#f8f8f2f8f8f21a",
+    "editorRuler.foreground": "#ffffff1a",
     "editorSuggestWidget.background": "#21222c",
     "editorSuggestWidget.foreground": "#f8f8f2",
     "editorSuggestWidget.selectedBackground": "#44475a",
     "editorWarning.foreground": "#8be9fd",
-    "editorWhitespace.foreground": "#f8f8f2f8f8f21a",
+    "editorWhitespace.foreground": "#ffffff1a",
     "editorWidget.background": "#21222c",
     "errorForeground": "#ff5555",
     "extensionButton.prominentBackground": "#50fa7b90",
@@ -132,7 +132,7 @@
     "pickerGroup.border": "#ffc799",
     "pickerGroup.foreground": "#8be9fd",
     "progressBar.background": "#20e3b2",
-    "selection.background": "#f8f8f2f8f8f218",
+    "selection.background": "#ffffff18",
     "settings.checkboxBackground": "#21222c",
     "settings.checkboxBorder": "#1a1c2d",
     "settings.checkboxForeground": "#f8f8f2",
@@ -176,7 +176,7 @@
     "terminal.ansiBrightGreen": "#20E3B2",
     "terminal.ansiBrightMagenta": "#ff6bcb",
     "terminal.ansiBrightRed": "#ff6e6e",
-    "terminal.ansiBrightWhite": "#f8f8f2f8f8f2",
+    "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#EAC394",
     "terminal.ansiCyan": "#8be9fd",
     "terminal.ansiGreen": "#20e3b2",
@@ -945,7 +945,7 @@
         "punctuation.colon"
       ],
       "settings": {
-        "foreground": "#f8f8f2f8f8f2"
+        "foreground": "#ffffff"
       }
     },
     {
