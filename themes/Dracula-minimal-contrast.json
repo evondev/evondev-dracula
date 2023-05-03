@@ -29,7 +29,7 @@
     "dropdown.foreground": "#f8f8f2",
     "editor.background": "#141523",
     "editor.findMatchBackground": "#FFC79980",
-    "editor.findMatchHighlightBackground": "#ffffff40",
+    "editor.findMatchHighlightBackground": "#f8f8f2f8f8f240",
     "editor.findRangeHighlightBackground": "#44475a75",
     // "editor.foldBackground": "#141523",
     "editor.foreground": "#f8f8f2",
@@ -55,8 +55,8 @@
     "editorGutter.modifiedBackground": "#8be9fd80",
     "editorHoverWidget.background": "#282a36",
     "editorHoverWidget.border": "#6272a4",
-    "editorIndentGuide.activeBackground": "#ffffff45",
-    "editorIndentGuide.background": "#ffffff1a",
+    "editorIndentGuide.activeBackground": "#f8f8f2f8f8f245",
+    "editorIndentGuide.background": "#f8f8f2f8f8f21a",
     "editorLineNumber.foreground": "#6272a4",
     "editorLink.activeForeground": "#8be9fd",
     "editorMarkerNavigation.background": "#21222c",
@@ -72,12 +72,12 @@
     "editorOverviewRuler.warningForeground": "#FFC79980",
     "editorOverviewRuler.wordHighlightForeground": "#8be9fd",
     "editorOverviewRuler.wordHighlightStrongForeground": "#20E3B2",
-    "editorRuler.foreground": "#ffffff1a",
+    "editorRuler.foreground": "#f8f8f2f8f8f21a",
     "editorSuggestWidget.background": "#21222c",
     "editorSuggestWidget.foreground": "#f8f8f2",
     "editorSuggestWidget.selectedBackground": "#44475a",
     "editorWarning.foreground": "#8be9fd",
-    "editorWhitespace.foreground": "#ffffff1a",
+    "editorWhitespace.foreground": "#f8f8f2f8f8f21a",
     "editorWidget.background": "#21222c",
     "errorForeground": "#ff5555",
     "extensionButton.prominentBackground": "#50fa7b90",
@@ -132,7 +132,7 @@
     "pickerGroup.border": "#ffc799",
     "pickerGroup.foreground": "#8be9fd",
     "progressBar.background": "#20e3b2",
-    "selection.background": "#ffffff18",
+    "selection.background": "#f8f8f2f8f8f218",
     "settings.checkboxBackground": "#21222c",
     "settings.checkboxBorder": "#1a1c2d",
     "settings.checkboxForeground": "#f8f8f2",
@@ -176,7 +176,7 @@
     "terminal.ansiBrightGreen": "#20E3B2",
     "terminal.ansiBrightMagenta": "#ff6bcb",
     "terminal.ansiBrightRed": "#ff6e6e",
-    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightWhite": "#f8f8f2f8f8f2",
     "terminal.ansiBrightYellow": "#EAC394",
     "terminal.ansiCyan": "#8be9fd",
     "terminal.ansiGreen": "#20e3b2",
@@ -945,7 +945,7 @@
         "punctuation.colon"
       ],
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#f8f8f2f8f8f2"
       }
     },
     {
@@ -953,8 +953,7 @@
         "variable.graphql",
         "string",
         "meta.attribute-selector.scss",
-        "meta.attribute-selector.css",
-        "support.constant.property-value.css"
+        "meta.attribute-selector.css"
       ],
       "settings": {
         "foreground": "#ffc799"
@@ -967,9 +966,6 @@
         "constant.numeric.js",
         "constant.numeric.css",
         "punctuation.definition.keyword",
-        "keyword.other.unit.percentage.css",
-        "keyword.other.unit.px.css",
-        "keyword.other.unit.rem.css",
         "constant.length.units.css",
         "constant.percentage.units.css",
         "constant.time.units.css",
@@ -990,10 +986,22 @@
         "constant",
         "support.type.property-name.media.css",
         "meta.property-values.css",
-        "support.constant"
+        "support.constant",
+        "keyword.operator.gradient.css",
+        "support.constant.property-value.css",
+        "keyword.other.unit.px.css",
+        "keyword.other.unit.em.css",
+        "keyword.other.unit.rem.css",
+        "keyword.other.unit.vw.css",
+        "keyword.other.unit.vh.css",
+        "keyword.other.unit.ch.css",
+        "keyword.other.unit.cqw.css",
+        "keyword.other.unit.percentage.css",
+        "keyword.other.unit.deg.css",
+        "keyword.other.unit.cm.css"
       ],
       "settings": {
-        "foreground": "#fff",
+        "foreground": "#f8f8f2",
         "fontStyle": ""
       }
     },
@@ -1012,7 +1020,7 @@
         "variable.other.readwrite.shorthandpropertyname.js"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#f8f8f2"
       }
     },
     {
@@ -1044,7 +1052,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#fff",
+        "foreground": "#f8f8f2",
         "fontStyle": ""
       }
     },
@@ -1065,7 +1073,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#fff",
+        "foreground": "#f8f8f2",
         "fontStyle": ""
       }
     },
