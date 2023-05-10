@@ -499,8 +499,7 @@
         "meta.at-rule.function variable",
         "meta.at-rule.mixin variable",
         "meta.function.arguments variable.other.php",
-        "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
-        "variable.parameter"
+        "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql"
       ],
       "settings": {
         "foreground": "#FFC799",
@@ -797,9 +796,11 @@
       "scope": [
         "variable",
         "constant.other.key.perl",
-        "variable.other.constant.js",
-        "variable.other.constant.ts",
-        "variable.other.constant.tsx"
+        "variable.other.property.static.js",
+        "variable.other.property.js",
+        "variable.other.property.ts",
+        "variable.other.property.ts",
+        "variable.other.property.tsx"
       ],
       "settings": {
         "foreground": "#F8F8F2"
@@ -935,15 +936,7 @@
       }
     },
     {
-      "scope": [
-        "variable.other.property.js",
-        "variable.other.property.tsx",
-        "variable.other.property.static.js",
-        "JSXNested",
-        "variable.other.readwrite.js",
-        "punctuation.semi-colon",
-        "punctuation.colon"
-      ],
+      "scope": ["JSXNested", "punctuation.semi-colon", "punctuation.colon"],
       "settings": {
         "foreground": "#ffffff"
       }
@@ -978,10 +971,6 @@
     },
     {
       "scope": [
-        "variable.parameter",
-        "variable.other.constant",
-        "variable.other.constant.ts",
-        "variable.other.constant.tsx",
         "support.variable",
         "constant",
         "support.type.property-name.media.css",
@@ -1014,9 +1003,6 @@
     {
       "scope": [
         "variable.other.constant.object",
-        "variable.other.object",
-        "variable.other.object.ts",
-        "variable.other.object.tsx",
         "variable.other.readwrite.shorthandpropertyname.js"
       ],
       "settings": {
@@ -1038,7 +1024,8 @@
         "support.function.transform.css",
         "constant.language.pseudo.css",
         "constant.language.pseudo.prefixed.css",
-        "entity.name.function.scss"
+        "entity.name.function.scss",
+        "support"
       ],
       "settings": {
         "foreground": "#20e3b2"
@@ -1046,7 +1033,7 @@
     },
     {
       "scope": [
-        "support",
+        "variable.parameter",
         "entity.name.type",
         "meta.interface.ts",
         "entity.other.inherited-class"
@@ -1064,11 +1051,7 @@
         "variable.other.readwrite.tsx",
         "variable.other.readwrite.js",
         "entity.name.type.class",
-        "variable.other.property.js",
-        "variable.other.property.ts",
-        "variable.other.property.tsx",
         "variable.scss",
-        "variable.other.property.static.js",
         "string.unquoted.js",
         "meta.object-literal.key"
       ],
