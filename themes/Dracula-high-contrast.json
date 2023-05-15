@@ -294,7 +294,7 @@
     {
       "scope": ["markup.italic"],
       "settings": {
-        "foreground": "#F1FA8C",
+        "foreground": "#ffb86c",
         "fontStyle": "italic"
       }
     },
