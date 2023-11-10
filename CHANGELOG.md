@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.44
+
+- Change Evondev Dracula Minimal Contrast colors
+
 ## 0.2.31
 
 - Optimize Minimal version
