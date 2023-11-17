@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.46
+
+- Add Evondev Dracula Author version: this version is of the Author
+
 ## 0.2.44
 
 - Change Evondev Dracula Minimal Contrast colors

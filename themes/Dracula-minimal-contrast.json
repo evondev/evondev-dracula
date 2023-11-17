@@ -279,7 +279,7 @@
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#91B4D5"
       }
     },
     {
