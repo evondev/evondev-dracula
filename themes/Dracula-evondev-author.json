@@ -417,18 +417,6 @@
     },
     {
       "scope": [
-        "comment",
-        "punctuation.definition.comment",
-        "unused.comment",
-        "wildcard.comment"
-      ],
-      "settings": {
-        "foreground": "#6272a4",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": [
         "comment keyword.codetag.notation",
         "comment.block.documentation keyword",
         "comment.block.documentation storage.type.class"
@@ -926,6 +914,19 @@
     },
     {
       "scope": [
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.js",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.ts",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#20E3B2",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
         "entity.other.attribute-name",
         "entity.name.function",
         "support.type.media-names.css",
@@ -969,9 +970,18 @@
       "scope": [
         "keyword",
         "storage",
+        "constant.length.units.css",
         "source.inside-js.css.styled",
+        "constant.numeric.css",
         "punctuation.definition.keyword",
         "entity.name.tag",
+        "keyword.other.unit.percentage.css",
+        "keyword.other.unit.px.css",
+        "keyword.other.unit.rem.css",
+        "constant.length.units.css",
+        "constant.percentage.units.css",
+        "constant.time.units.css",
+        "constant.angle.units.css",
         "storage.modifier.ts"
       ],
       "settings": {
@@ -1121,9 +1131,40 @@
       }
     },
     {
-      "scope": ["storage.type.function.arrow.js"],
+      "scope": [
+        "keyword.other.unit.vh.css",
+        "keyword.other.unit.vw.css",
+        "keyword.other.unit.px.css",
+        "keyword.other.unit.em.css",
+        "keyword.other.unit.rem.css",
+        "keyword.other.unit.percentage.css"
+      ],
       "settings": {
-        "fontStyle": ""
+        "foreground": "#9A86FD"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx",
+        "entity.other.attribute-name.generic.html",
+        "entity.other.attribute-name.tag.pug"
+      ],
+      "settings": {
+        "foreground": "#20e3bd"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "unused.comment",
+        "wildcard.comment"
+      ],
+      "settings": {
+        "foreground": "#6272a4",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1139,34 +1180,13 @@
     },
     {
       "scope": [
-        "entity.other.attribute-name.html",
-        "entity.other.attribute-name.generic.html",
-        "entity.other.attribute-name.tag.pug",
-        "entity.other.attribute-name.js",
-        "entity.other.attribute-name.ts",
-        "entity.other.attribute-name.jsx",
-        "entity.other.attribute-name.tsx"
+        "storage.type.function.arrow.js",
+        "storage.type.function.arrow.ts",
+        "storage.type.function.arrow.jsx",
+        "storage.type.function.arrow.tsx"
       ],
       "settings": {
-        "foreground": "#20e3bd"
-      }
-    },
-    {
-      "scope": [
-        "keyword.other.unit.vh.css",
-        "keyword.other.unit.vw.css",
-        "keyword.other.unit.px.css",
-        "keyword.other.unit.em.css",
-        "keyword.other.unit.rem.css",
-        "keyword.other.unit.percentage.css",
-        "constant.numeric.css",
-        "constant.length.units.css",
-        "constant.percentage.units.css",
-        "constant.time.units.css",
-        "constant.angle.units.css"
-      ],
-      "settings": {
-        "foreground": "#9A86FD"
+        "fontStyle": ""
       }
     }
   ]
