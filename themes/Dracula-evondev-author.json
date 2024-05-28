@@ -117,11 +117,11 @@
     "panelTitle.inactiveForeground": "#6272a4",
     "peekView.border": "#44475a",
     "peekViewEditor.background": "#282a36",
-    "peekViewEditor.matchHighlightBackground": "#f1fa8c80",
+    "peekViewEditor.matchHighlightBackground": "#EAC39480",
     "peekViewResult.background": "#21222c",
     "peekViewResult.fileForeground": "#cbdaff",
     "peekViewResult.lineForeground": "#cbdaff",
-    "peekViewResult.matchHighlightBackground": "#f1fa8c80",
+    "peekViewResult.matchHighlightBackground": "#EAC39480",
     "peekViewResult.selectionBackground": "#44475a",
     "peekViewResult.selectionForeground": "#cbdaff",
     "peekViewTitle.background": "#191a21",
@@ -262,7 +262,7 @@
     {
       "scope": ["entity.name.filename"],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
@@ -334,7 +334,7 @@
     {
       "scope": ["entity.name.directive.restructuredtext", "markup.quote"],
       "settings": {
-        "foreground": "#F1FA8C",
+        "foreground": "#EAC394",
         "fontStyle": "italic"
       }
     },
@@ -384,7 +384,7 @@
         "markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
@@ -716,7 +716,7 @@
         "constant.character.escape.backslash.regexp"
       ],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
@@ -764,7 +764,7 @@
     {
       "scope": ["string"],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
@@ -832,7 +832,7 @@
     {
       "scope": ["meta.selectionset.graphql variable"],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
@@ -886,13 +886,13 @@
     {
       "scope": ["meta.scope.prerequisites.makefile"],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
       "scope": ["meta.attribute-selector.scss"],
       "settings": {
-        "foreground": "#F1FA8C"
+        "foreground": "#EAC394"
       }
     },
     {
