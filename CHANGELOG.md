@@ -1,5 +1,10 @@
 # Evondev Dracula Changelog
 
+## 0.2.50
+
+- Update active border tab and terminal
+- Update cursor color
+
 ## 0.2.49
 
 - Update color of Dracula Author
