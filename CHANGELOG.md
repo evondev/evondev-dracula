@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.49
+
+- Update color of Dracula Author
+
 ## 0.2.47
 
 - Fix color of Evondev Dracula Author version
