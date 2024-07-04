@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.59
+
+- Change minimal theme name to Evondev Golden
+
 ## 0.2.55
 
 - Update schema Minimal
