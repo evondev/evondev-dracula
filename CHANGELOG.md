@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.55
+
+- Update schema Minimal
+
 ## 0.2.51
 
 - Update string color
