@@ -793,7 +793,8 @@
       "scope": [
         "meta.object-literal.key",
         "string.unquoted.js",
-        "string.unquoted.ts"
+        "string.unquoted.ts",
+        "meta.brace"
       ],
       "settings": {
         "foreground": "#fff"
