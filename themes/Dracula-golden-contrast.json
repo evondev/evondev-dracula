@@ -576,7 +576,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -603,7 +603,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#a6accd"
+        "foreground": "#E9C5AC"
       }
     },
     {
@@ -709,7 +709,7 @@
         "punctuation.section.class.end"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -731,7 +731,7 @@
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#FFFFFF"
       }
     },
     {
