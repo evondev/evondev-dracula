@@ -5,11 +5,11 @@
   "semanticHighlighting": true,
   "colors": {
     "activityBar.activeBackground": "#bd93f910",
-    "activityBar.activeBorder": "#E9C5AC",
+    "activityBar.activeBorder": "#fcb564",
     "activityBar.background": "#1E1F35",
     "activityBar.foreground": "#f8f8f2",
     "activityBar.inactiveForeground": "#6272a4",
-    "activityBarBadge.background": "#E9C5AC",
+    "activityBarBadge.background": "#fcb564",
     "activityBarBadge.foreground": "#f8f8f2",
     "badge.background": "#44475a",
     "badge.foreground": "#f8f8f2",
@@ -111,7 +111,7 @@
     "merge.currentHeaderBackground": "#50fa7b90",
     "merge.incomingHeaderBackground": "#bd93f990",
     "panel.background": "#1E1F35",
-    "panelTitle.activeBorder": "#E9C5AC",
+    "panelTitle.activeBorder": "#fcb564",
     "panelTitle.activeForeground": "#f8f8f2",
     "panelTitle.inactiveForeground": "#6272a4",
     "peekView.border": "#44475a",
@@ -128,7 +128,7 @@
     "peekViewTitleLabel.foreground": "#f8f8f2",
     "pickerGroup.border": "#bd93f9",
     "pickerGroup.foreground": "#8be9fd",
-    "progressBar.background": "#ff79c6",
+    "progressBar.background": "#fcb564",
     "selection.background": "#ffffff18",
     "settings.checkboxBackground": "#21222c",
     "settings.checkboxBorder": "#191a21",
@@ -160,7 +160,7 @@
     "statusBarItem.remoteForeground": "#f8f8f2",
     "tab.lastPinnedBorder": "#1e1f35",
     "tab.activeBackground": "#1E1F35",
-    "tab.activeBorderTop": "#E9C5AC",
+    "tab.activeBorderTop": "#fcb564",
     "tab.activeForeground": "#f8f8f2",
     "tab.border": "#191a21",
     "tab.inactiveBackground": "#191a21",
@@ -762,8 +762,6 @@
       "scope": [
         "support.class.component",
         "entity.name.tag",
-        "punctuation.definition.tag.begin.tsx",
-        "punctuation.definition.tag.end.tsx",
         "storage.type.function.arrow.tsx"
       ],
       "settings": {
@@ -771,7 +769,11 @@
       }
     },
     {
-      "scope": ["keyword.operator"],
+      "scope": [
+        "keyword.operator",
+        "punctuation.definition.tag.begin.tsx",
+        "punctuation.definition.tag.end.tsx"
+      ],
       "settings": {
         "foreground": "#A6ACCD"
       }
