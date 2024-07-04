@@ -765,11 +765,16 @@
         "entity.name.tag",
         "punctuation.definition.tag.begin.tsx",
         "punctuation.definition.tag.end.tsx",
-        "keyword.operator",
         "storage.type.function.arrow.tsx"
       ],
       "settings": {
         "foreground": "#E9C5AC"
+      }
+    },
+    {
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#A6ACCD"
       }
     },
     {
