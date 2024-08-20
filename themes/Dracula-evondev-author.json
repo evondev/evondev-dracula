@@ -529,7 +529,7 @@
     {
       "scope": ["keyword.control.new", "keyword.operator.new"],
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -635,11 +635,16 @@
       "scope": [
         "entity.name.function.target.makefile",
         "entity.name.section.toml",
-        "entity.name.tag.yaml",
         "variable.other.key.toml"
       ],
       "settings": {
         "foreground": "#8BE9FD"
+      }
+    },
+    {
+      "scope": ["entity.name.tag.yaml"],
+      "settings": {
+        "foreground": "#15bbff"
       }
     },
     {
@@ -1078,6 +1083,20 @@
       "settings": {
         "foreground": "#cbdaff",
         "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["log.error"],
+      "settings": {
+        "foreground": "#EE6666",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["log.warning"],
+      "settings": {
+        "foreground": "#E7EE98",
+        "fontStyle": "bold"
       }
     },
     {
