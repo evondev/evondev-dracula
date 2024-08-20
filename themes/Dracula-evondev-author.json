@@ -485,7 +485,8 @@
         "meta.method-call.java meta.method",
         "meta.method.groovy",
         "support.function.any-method.lua",
-        "keyword.operator.function.infix"
+        "keyword.operator.function.infix",
+        "support.function.transform.css"
       ],
       "settings": {
         "foreground": "#37DD9E"
@@ -635,16 +636,11 @@
       "scope": [
         "entity.name.function.target.makefile",
         "entity.name.section.toml",
+        "entity.name.tag.yaml",
         "variable.other.key.toml"
       ],
       "settings": {
         "foreground": "#8BE9FD"
-      }
-    },
-    {
-      "scope": ["entity.name.tag.yaml"],
-      "settings": {
-        "foreground": "#15bbff"
       }
     },
     {
