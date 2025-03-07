@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.75
+
+- Update color to readable
+
 ## 0.2.74
 
 - Put back Dracula Darker Contrast

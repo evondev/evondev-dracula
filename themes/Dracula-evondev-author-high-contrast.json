@@ -212,13 +212,13 @@
     {
       "scope": ["header"],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
       "scope": ["source"],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -255,7 +255,7 @@
     {
       "scope": ["invalid.deprecated"],
       "settings": {
-        "foreground": "#cbdaff",
+        "foreground": "#ced9f7",
         "fontStyle": "underline italic"
       }
     },
@@ -287,7 +287,7 @@
     {
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#C96AE7",
+        "foreground": "#978df8",
         "fontStyle": "bold"
       }
     },
@@ -357,7 +357,7 @@
     {
       "scope": ["punctuation.definition.constant.restructuredtext"],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
@@ -366,7 +366,7 @@
         "markup.heading.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
@@ -375,7 +375,7 @@
         "meta.paragraph.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -404,7 +404,7 @@
         "variable.parameter.function.language.special"
       ],
       "settings": {
-        "foreground": "#C96AE7",
+        "foreground": "#978df8",
         "fontStyle": ""
       }
     },
@@ -450,7 +450,7 @@
     {
       "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
@@ -553,7 +553,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -611,7 +611,7 @@
         "string.template punctuation.accessor"
       ],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -806,7 +806,7 @@
         "variable.other.constant.tsx"
       ],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -826,7 +826,7 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "foreground": "#cbdaff",
+        "foreground": "#ced9f7",
         "fontStyle": ""
       }
     },
@@ -839,7 +839,7 @@
     {
       "scope": ["meta.selectionset.graphql meta.arguments variable"],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -865,13 +865,13 @@
         "constant.language.empty-list.haskell"
       ],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
       "scope": ["source.shell variable.other"],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
@@ -881,7 +881,7 @@
         "meta.property-values.css"
       ],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
@@ -902,7 +902,7 @@
         "punctuation.definition.attribute-selector.begin.bracket.square.scss"
       ],
       "settings": {
-        "foreground": "#cbdaff"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -996,7 +996,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#add7ff",
+        "foreground": "#75b8f7",
         "fontStyle": ""
       }
     },
@@ -1017,13 +1017,13 @@
         "variable.other.readwrite.shorthandpropertyname.js"
       ],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
       "scope": ["variable.other.constant.object"],
       "settings": {
-        "foreground": "#add7ff"
+        "foreground": "#75b8f7"
       }
     },
     {
@@ -1045,7 +1045,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#C96AE7"
+        "foreground": "#978df8"
       }
     },
     {
@@ -1077,7 +1077,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#cbdaff",
+        "foreground": "#ced9f7",
         "fontStyle": ""
       }
     },
@@ -1158,7 +1158,7 @@
         "keyword.other.unit.percentage.css"
       ],
       "settings": {
-        "foreground": "#C96AE7",
+        "foreground": "#978df8",
         "fontStyle": ""
       }
     },

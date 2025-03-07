@@ -842,7 +842,7 @@
     {
       "scope": ["variable"],
       "settings": {
-        "foreground": "#CBDAFF"
+        "foreground": "#ced9f7"
       }
     },
     {
@@ -1031,7 +1031,7 @@
         "keyword.other.unit.deg.css"
       ],
       "settings": {
-        "foreground": "#ADD7FF"
+        "foreground": "#75b8f7"
       }
     },
     {
@@ -1080,7 +1080,7 @@
         "constant.numeric.js"
       ],
       "settings": {
-        "foreground": "#ADD7FF"
+        "foreground": "#75b8f7"
       }
     },
     {
@@ -1101,7 +1101,7 @@
         "entity.name.function.scss"
       ],
       "settings": {
-        "foreground": "#ADD7FF"
+        "foreground": "#75b8f7"
       }
     },
     {
@@ -1129,7 +1129,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#CBDAFF",
+        "foreground": "#ced9f7",
         "fontStyle": ""
       }
     },
@@ -1141,7 +1141,7 @@
         "variable.other.property.static.js"
       ],
       "settings": {
-        "foreground": "#cbdaff",
+        "foreground": "#ced9f7",
         "fontStyle": ""
       }
     },
