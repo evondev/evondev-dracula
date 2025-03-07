@@ -1,5 +1,10 @@
 # Evondev Dracula Changelog
 
+## 0.2.69
+
+- Remove golden contrast
+- Added Dracula New Contrast
+
 ## 0.2.59
 
 - Change minimal theme name to Evondev Golden

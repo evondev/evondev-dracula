@@ -28,7 +28,7 @@
         "path": "./themes/Dracula-normal-contrast.json"
       },
       {
-        "label": "Evondev Dracula New Colour",
+        "label": "Evondev Dracula New Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/Dracula-new-contrast.json"
       },
@@ -43,12 +43,7 @@
         "path": "./themes/Dracula-darker-contrast.json"
       },
       {
-        "label": "Evondev Dracula Golden Contrast",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Dracula-golden-contrast.json"
-      },
-      {
-        "label": "Evondev Dracula Author",
+        "label": "Evondev Dracula of Author only",
         "uiTheme": "vs-dark",
         "path": "./themes/Dracula-evondev-author.json"
       }
