@@ -997,7 +997,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#75b8f7",
+        "foreground": "#7CAFFF",
         "fontStyle": ""
       }
     },
@@ -1024,7 +1024,7 @@
     {
       "scope": ["variable.other.constant.object"],
       "settings": {
-        "foreground": "#75b8f7"
+        "foreground": "#7CAFFF"
       }
     },
     {

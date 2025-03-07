@@ -413,7 +413,7 @@
     {
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#8ec5fc",
+        "foreground": "#978df8",
         "fontStyle": ""
       }
     },
@@ -545,8 +545,7 @@
         "meta.at-rule.function variable",
         "meta.at-rule.mixin variable",
         "meta.function.arguments variable.other.php",
-        "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
-        "variable.parameter"
+        "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql"
       ],
       "settings": {
         "foreground": "#FFB86C",
@@ -855,10 +854,11 @@
         "variable.other.constant.js",
         "variable.other.constant.ts",
         "variable.other.constant.tsx",
-        "variable.other.constant.object.ts"
+        "variable.other.constant.object.ts",
+        "variable.other.constant.object"
       ],
       "settings": {
-        "foreground": "#8ec5fc"
+        "foreground": "#978DF8"
       }
     },
     {
@@ -929,7 +929,7 @@
     {
       "scope": ["support.constant"],
       "settings": {
-        "foreground": "#8ec5fc",
+        "foreground": "#7CAFFF",
         "fontStyle": ""
       }
     },
@@ -1016,6 +1016,7 @@
     },
     {
       "scope": [
+        "meta.property-values.css",
         "support.constant.property-value.css",
         "support.type.property-name.media.css",
         "keyword.other.unit.percentage.css",
@@ -1035,7 +1036,7 @@
         "keyword.other.unit.deg.css"
       ],
       "settings": {
-        "foreground": "#75b8f7"
+        "foreground": "#7CAFFF"
       }
     },
     {
@@ -1057,18 +1058,6 @@
       }
     },
     {
-      "scope": [
-        "variable.parameter",
-        "constant",
-        "support.type.property-name.media.css",
-        "meta.property-values.css"
-      ],
-      "settings": {
-        "foreground": "#8ec5fc",
-        "fontStyle": ""
-      }
-    },
-    {
       "scope": ["support.class.component"],
       "settings": {
         "fontStyle": ""
@@ -1076,7 +1065,6 @@
     },
     {
       "scope": [
-        "variable.other.constant.object",
         "variable.other.object",
         "variable.other.object.ts",
         "variable.other.object.tsx",
@@ -1084,7 +1072,7 @@
         "constant.numeric.js"
       ],
       "settings": {
-        "foreground": "#75b8f7"
+        "foreground": "#7CAFFF"
       }
     },
     {
@@ -1105,7 +1093,7 @@
         "entity.name.function.scss"
       ],
       "settings": {
-        "foreground": "#75b8f7"
+        "foreground": "#7CAFFF"
       }
     },
     {
