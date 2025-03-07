@@ -1017,13 +1017,13 @@
         "variable.other.readwrite.shorthandpropertyname.js"
       ],
       "settings": {
-        "foreground": "#7CAFFF"
+        "foreground": "#C96AE7"
       }
     },
     {
       "scope": ["variable.other.constant.object"],
       "settings": {
-        "foreground": "#7CAFFF"
+        "foreground": "#add7ff"
       }
     },
     {
