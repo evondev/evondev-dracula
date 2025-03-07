@@ -544,8 +544,7 @@
         "meta.at-rule.function variable",
         "meta.at-rule.mixin variable",
         "meta.function.arguments variable.other.php",
-        "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
-        "variable.parameter"
+        "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql"
       ],
       "settings": {
         "foreground": "#FFB86C",
@@ -858,7 +857,7 @@
         "variable.other.constant.object"
       ],
       "settings": {
-        "foreground": "#978DF8"
+        "foreground": "#7CAFFF"
       }
     },
     {
