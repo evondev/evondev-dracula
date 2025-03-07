@@ -1,5 +1,10 @@
 # Evondev Dracula Changelog
 
+## 0.2.74
+
+- Put back Dracula Darker Contrast
+- Added new Dracula Darker Contrast New Color
+
 ## 0.2.71
 
 - Put back Dracula Night Contrast
