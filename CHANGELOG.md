@@ -1,5 +1,11 @@
 # Evondev Dracula Changelog
 
+## 0.2.71
+
+- Remove darker contrast
+- Added Dracula High Contrast New Color
+- Added Dracula Night Contrast New Color
+
 ## 0.2.69
 
 - Remove golden contrast

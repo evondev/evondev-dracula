@@ -14,12 +14,12 @@
 
 ## Scheme color
 
-- Evondev Dracula Minimal Contrast 🔥
-- Evondev Dracula New Colour ❤️
+- Evondev Dracula High Contrast New Color ✨
+- Evondev Dracula Night Contrast New color ✨
 - Evondev Dracula High Contrast ⭐️
-- Evondev Dracula Normal Contrast 🤩
 - Evondev Dracula Night Contrast 🦉
-- Evondev Dracula Darker Contrast 🤯
+- Evondev Dracula New Contrast ❤️
+- Evondev Dracula Normal Contrast 🤩
 
 ## My settings.json
 
