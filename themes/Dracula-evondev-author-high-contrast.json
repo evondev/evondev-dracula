@@ -1,5 +1,5 @@
 {
-  "name": "Dracula author high contrast",
+  "name": "Dracula high contrast",
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "semanticHighlighting": true,
@@ -212,13 +212,13 @@
     {
       "scope": ["header"],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
       "scope": ["source"],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -255,7 +255,7 @@
     {
       "scope": ["invalid.deprecated"],
       "settings": {
-        "foreground": "#ced9f7",
+        "foreground": "#cbdaff",
         "fontStyle": "underline italic"
       }
     },
@@ -287,7 +287,7 @@
     {
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#978df8",
+        "foreground": "#C96AE7",
         "fontStyle": "bold"
       }
     },
@@ -357,7 +357,7 @@
     {
       "scope": ["punctuation.definition.constant.restructuredtext"],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
@@ -366,7 +366,7 @@
         "markup.heading.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
@@ -375,7 +375,7 @@
         "meta.paragraph.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -404,7 +404,7 @@
         "variable.parameter.function.language.special"
       ],
       "settings": {
-        "foreground": "#978df8",
+        "foreground": "#C96AE7",
         "fontStyle": ""
       }
     },
@@ -450,7 +450,7 @@
     {
       "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
@@ -553,7 +553,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -611,7 +611,7 @@
         "string.template punctuation.accessor"
       ],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -806,7 +806,7 @@
         "variable.other.constant.tsx"
       ],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -826,7 +826,7 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "foreground": "#ced9f7",
+        "foreground": "#cbdaff",
         "fontStyle": ""
       }
     },
@@ -839,7 +839,7 @@
     {
       "scope": ["meta.selectionset.graphql meta.arguments variable"],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -865,13 +865,13 @@
         "constant.language.empty-list.haskell"
       ],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
       "scope": ["source.shell variable.other"],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
@@ -881,7 +881,7 @@
         "meta.property-values.css"
       ],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
@@ -902,7 +902,7 @@
         "punctuation.definition.attribute-selector.begin.bracket.square.scss"
       ],
       "settings": {
-        "foreground": "#ced9f7"
+        "foreground": "#cbdaff"
       }
     },
     {
@@ -996,7 +996,7 @@
         "constant"
       ],
       "settings": {
-        "foreground": "#7CAFFF",
+        "foreground": "#add7ff",
         "fontStyle": ""
       }
     },
@@ -1017,13 +1017,13 @@
         "variable.other.readwrite.shorthandpropertyname.js"
       ],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
       "scope": ["variable.other.constant.object"],
       "settings": {
-        "foreground": "#7CAFFF"
+        "foreground": "#add7ff"
       }
     },
     {
@@ -1045,7 +1045,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#978df8"
+        "foreground": "#C96AE7"
       }
     },
     {
@@ -1077,7 +1077,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#ced9f7",
+        "foreground": "#cbdaff",
         "fontStyle": ""
       }
     },
@@ -1158,7 +1158,7 @@
         "keyword.other.unit.percentage.css"
       ],
       "settings": {
-        "foreground": "#978df8",
+        "foreground": "#C96AE7",
         "fontStyle": ""
       }
     },
