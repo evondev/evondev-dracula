@@ -1,5 +1,9 @@
 # Evondev Dracula Changelog
 
+## 0.2.81
+
+- Update color of Author only
+
 ## 0.2.75
 
 - Update color to readable

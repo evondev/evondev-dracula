@@ -1993,7 +1993,7 @@
       }
     },
     {
-      "scope": ["keyword.control.flow.tsx", "storage.modifier.async.tsx"],
+      "scope": ["keyword.control.flow.tsx"],
       "settings": {
         "fontStyle": "bold"
       }
