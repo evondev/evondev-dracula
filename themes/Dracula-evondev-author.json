@@ -1730,7 +1730,9 @@
         "variable.other.constant.ts",
         "variable.other.constant.tsx",
         "support.variable",
-        "constant"
+        "constant",
+        "constant.language",
+        "constant.numeric"
       ],
       "settings": {
         "foreground": "#ADD7FF",
@@ -1993,7 +1995,7 @@
       }
     },
     {
-      "scope": ["keyword.control.flow.tsx"],
+      "scope": ["keyword.control.flow.tsx", "storage.modifier.async.tsx"],
       "settings": {
         "fontStyle": "bold"
       }
