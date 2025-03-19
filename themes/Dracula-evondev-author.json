@@ -1995,7 +1995,16 @@
       }
     },
     {
-      "scope": ["keyword.control.flow.tsx", "storage.modifier.async.tsx"],
+      "scope": [
+        "keyword.control.flow.tsx",
+        "storage.modifier.async.tsx",
+        "keyword.control.flow.ts",
+        "storage.modifier.async.ts",
+        "keyword.control.flow.jsx",
+        "storage.modifier.async.jsx",
+        "keyword.control.flow.js",
+        "storage.modifier.async.js"
+      ],
       "settings": {
         "fontStyle": "bold"
       }
