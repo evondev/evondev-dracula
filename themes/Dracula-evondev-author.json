@@ -1997,13 +1997,9 @@
     {
       "scope": [
         "keyword.control.flow.tsx",
-        "storage.modifier.async.tsx",
         "keyword.control.flow.ts",
-        "storage.modifier.async.ts",
         "keyword.control.flow.jsx",
-        "storage.modifier.async.jsx",
-        "keyword.control.flow.js",
-        "storage.modifier.async.js"
+        "keyword.control.flow.js"
       ],
       "settings": {
         "fontStyle": "bold"
@@ -2076,6 +2072,12 @@
       ],
       "settings": {
         "foreground": "#978DF8"
+      }
+    },
+    {
+      "scope": ["entity.name.function.member"],
+      "settings": {
+        "foreground": "#20E3BD"
       }
     }
   ]
