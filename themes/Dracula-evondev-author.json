@@ -2075,9 +2075,37 @@
       }
     },
     {
-      "scope": ["entity.name.function.member"],
+      "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#20E3BD"
+        "foreground": "#FFB48F"
+      }
+    },
+    {
+      "scope": [
+        "support.constant.color.w3c-standard-color-name.css",
+        "support.constant.property-value.css",
+        "constant.other.color.rgb-value.hex.css",
+        "variable.other.constant",
+        "variable.other.constant.ts",
+        "variable.other.constant.tsx",
+        "variable.other.constant.object.tsx",
+        "variable.other.constant.object.ts",
+        "variable.other.constant.object.js",
+        "variable.other.constant.object.jsx"
+      ],
+      "settings": {
+        "foreground": "#978DF8"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function.css",
+        "entity.name.function.scss",
+        "support.function",
+        "support.function.transform.css"
+      ],
+      "settings": {
+        "foreground": "#37DD9D"
       }
     }
   ]
